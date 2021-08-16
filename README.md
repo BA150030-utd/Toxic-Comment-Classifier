@@ -1,9 +1,9 @@
 This report will showcase machine learning techniques used to classify a set of comments according to 4 categories of toxic dialogue. Key fundamental techniques were also used to complete this classifier.Report will contain:
 
-Exploratory Data Analysis
-Data Visualizations
-Text Filtering and Preprocessing 
-Concentrations and subset creation
+*Exploratory Data Analysis
+*Data Visualizations
+*Text Filtering and Preprocessing 
+*Concentrations and subset creation
 
 Dataset Source: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data 
 Github Repository: https://github.com/BA150030-utd/Toxic-Comment-Classifier 
