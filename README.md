@@ -10,7 +10,7 @@ This report will showcase machine learning techniques used to classify a set of 
 
 Dataset Source: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data 
 
-PLEASE NOTE: Some of the results done in this analysis contain explicit language, mainly for the EDA section of the project. Viewer discretion is advised. 
+PLEASE NOTE: Some of the results done in this analysis contain explicit language, mainly from the EDA section of the project. Viewer discretion is advised. 
 
 What is the purpose of this project? 
 
